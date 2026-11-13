@@ -1,5 +1,0 @@
-The existing research studies focus on evaluating Large Language Models, monitoring their performance and analyzing execution traces to identify errors. 
-These studies highlight the importance of tracking response quality, latency, token usage and system reliability in AI applications. 
-They also show that proper monitoring helps developers understand and improve LLM performance. 
-Based on these findings, our project aims to develop an LLM Observability Dashboard using Langfuse Tracing to bring important monitoring 
-information together in a single, easy-to-use interface, helping developers analyze performance, manage costs and identify errors efficiently.
